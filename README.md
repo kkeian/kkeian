@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kkeian
+- 👋 Hi, I’m Keian
 - 👀 I’m interested in building systems from scratch in my free time.
-- 🌱 I’m currently learning MIPS and Embedded Systems Programming.
+- 🌱 I’m currently learning Embedded Systems Programming.
 - 💞️ I’m looking to improve my understanding of Embedded and low-level programming.
 
 <!---
